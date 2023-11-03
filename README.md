@@ -1,4 +1,4 @@
-# Osta-Server
+# Osta Server
 the api for Osta-Client
 
 ## Installation
