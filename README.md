@@ -23,8 +23,24 @@ cd Osta-Server
 npm install
 ```
 
-4. Run App
+4. Edit github info:
+
+Open the index.js file and enter your information from line 20 to line 22.
+
+5. Run App
 
 ```bash
 npm start
 ```
+
+## Developer Contact
+
+For any queries or suggestions, you can reach out to the developer:
+
+- Name: Hossein Pira
+- Email: h3dev.pira@gmail.com
+- Telegram: [@h3dev](https://t.me/h3dev)
+
+## License
+
+This project is licensed under the MIT License.
